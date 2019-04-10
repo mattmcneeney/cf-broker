@@ -1,0 +1,20 @@
+{
+  "name": "cf-broker",
+  "version": "1.0.0",
+  "description": "A service broker used for provisioning orgs and spaces in CF",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matt McNeeney <mmcneeney@pivotal.io>",
+  "repository": "https://github.com/mattmcneeney/cf-broker",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest",
+    "body-parser": "latest",
+    "cf-nodejs-client": "latest"
+  },
+  "engines": {
+    "node": "8.x.x"
+  }
+}
