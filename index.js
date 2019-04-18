@@ -73,7 +73,7 @@ app.get('/v2/catalog', function(req, res) {
    var data = {
       services: [{
          name: 'cf',
-         description: 'A service broker used for provisioning orgs and spaces in Cloud Foundry',
+         description: 'A service broker used for provisioning a place to run your 12-factor apps',
          id: '011dc653-871b-4bae-aff2-90bff0c75ca2',
          bindable: true,
          plans: [{
