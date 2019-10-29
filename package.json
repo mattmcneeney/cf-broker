@@ -10,12 +10,13 @@
   "repository": "https://github.com/mattmcneeney/cf-broker",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
     "body-parser": "latest",
     "cf-nodejs-client": "latest",
-    "request": "^2.88.0",
     "cryptiles": ">=4.1.2",
-    "hoek": ">=4.2.1"
+    "express": "^4.17.1",
+    "hoek": ">=4.2.1",
+    "request": "^2.88.0",
+    "lodash": ">=4.17.13"
   },
   "engines": {
     "node": "10.x.x"
