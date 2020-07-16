@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "hoek": ">=4.2.1",
     "request": "^2.88.0",
-    "lodash": ">=4.17.13"
+    "lodash": ">=4.17.19"
   },
   "engines": {
     "node": "10.x.x"
