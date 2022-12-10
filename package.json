@@ -13,7 +13,7 @@
     "body-parser": "latest",
     "cf-nodejs-client": "latest",
     "cryptiles": ">=4.1.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "hoek": ">=4.2.1",
     "request": "^2.88.0",
     "lodash": ">=4.17.13"
